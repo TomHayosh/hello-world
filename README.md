@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Getting back to programming. At last.
